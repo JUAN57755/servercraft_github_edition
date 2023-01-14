@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAD+EuHu7u7u7v4S4e7u7u7u/vLv7u7u7u4u4u7u7u7v7i7i7u7u7u/uLuLu7u7u7+4u4u7u7u7v7i7i7u7u7u/uLuLu7u7u7+4u4u7u7u7v7i7i7u7u7u/uLuLu7u7u7+4u4u7u7u7v7v7y7+7u7u7u/hLh7u7u7u7+EuHu7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Icon"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAiIiIiIiIiIiIiIiIiIiIiIiIiIvL/IiIiIiIi//8vIiIiIiL//y8iIiIiIv//LyIiIiIi8v8iIiIiIiL//y8iIiIiIv//LyIiIiIi//8vIiIiIiLy/yIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image3": {
+        "data": "hwQQABYAAAAAAAAAAADw/////wAAu7u7u7vMu7u7+wCwEd3d3d3Ly8y8/wAbEc3MzNzL27u8/wAbESz/IsLL27u8/wAbEfwiL8/L27u8/wAbEfwiL8/L27u8/wAbESwi8s/L27u8/wAbESwiIsLL27u8/wAbEfz//8/L27u8/wAbEfwiIs/L27u8/wAbEfwiIs/L27u8/wAbEc3MzNzL27u8/wCwEd3d3d3L28y8/wAAu7u7u7vMu7u7+wAAAAAAAADw/////wA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tv"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
